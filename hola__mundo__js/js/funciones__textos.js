@@ -24,11 +24,16 @@ var texto2 = "Este es mi practica";
 // var textotal = texto1.concat(" "+texto2);
 
 
-var busqueda = texto1.indexOf("curso");
+// var busqueda = texto1.indexOf("curso");
+// console.log(busqueda);
+
+
+var text1 = "    hola chau   ";
+// var dato = text1.charAt(3);
+// console.log(dato);
+
+
+
+var busqueda = text1.trim();
 console.log(busqueda);
-
-
-var text1 = "hola";
-var dato = text1.charAt(3);
-console.log(dato);
 
